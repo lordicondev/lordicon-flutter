@@ -1,3 +1,7 @@
+## v1.0.2 (2023-10-04)
+
+- Downgrade SDK version.
+
 ## v1.0.1 (2023-10-04)
 
 - Update readme.md links.
