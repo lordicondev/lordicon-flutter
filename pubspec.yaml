@@ -1,7 +1,9 @@
 name: lordicon
 description: This library allows you to easily integrate the playback of Lordicon icons into a Flutter application.
-version: 1.0.2
+version: 1.0.3
 homepage: https://lordicon.com/
+repository: https://github.com/lordicondev/lordicon-flutter
+issue_tracker: https://github.com/lordicondev/lordicon-flutter/issues
 
 environment:
     sdk: "^3.0.0"
