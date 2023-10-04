@@ -1,0 +1,24 @@
+name: lordicon
+description: This library allows you to easily integrate the playback of Lordicon icons into a Flutter application.
+version: 1.0.0
+homepage: https://lordicon.com/
+
+environment:
+    sdk: ">=3.1.2 <4.0.0"
+
+dependencies:
+    flutter:
+        sdk: flutter
+    path: ^1.8.0
+    lottie: ^2.6.0
+
+dev_dependencies:
+    flutter_test:
+        sdk: flutter
+    flutter_lints: ^2.0.0
+
+topics:
+    - lordicon
+    - lottie
+    - icon
+    - animation

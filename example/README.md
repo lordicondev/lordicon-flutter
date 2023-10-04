@@ -1,8 +1,6 @@
-# Lordicon Flutter
+# Example
 
-This library allows you to easily integrate the playback of [Lordicon](https://lordicon.com/) icons into a Flutter application.
-
-## Usage
+## Simple usage
 
 ```dart
 import 'package:flutter/material.dart';
@@ -37,14 +35,3 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
-
-## More examples
-
-For more code samples demonstrating various possibilities, please refer to the 'example' folder.
-
-## Useful links
-
-- [Lordicon](https://lordicon.com/) - Lordicon is a powerful library of
-  thousands of carefully crafted animated icons.
-- [Lottie](http://airbnb.io/lottie) - Render After Effects animations natively
-  on Web, Android and iOS, and React Native.
