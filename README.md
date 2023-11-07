@@ -1,3 +1,5 @@
+<img src="/docs/lordicon.png" width="128" align="right" />
+
 # Lordicon Flutter
 
 This library allows you to easily integrate the playback of [Lordicon](https://lordicon.com/) icons into a Flutter application.
